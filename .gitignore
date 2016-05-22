@@ -3,3 +3,6 @@
 /public/storage
 Homestead.yaml
 Homestead.json
+.DS_Store
+.idea/
+.vagrant/
